@@ -1,0 +1,176 @@
+******************************************
+The following file was analyzed: C:\Users\Ehlimana\Desktop\results_john (RAR3) 1.txt
+Processing time less than 1 min
+(Password length), (Count)
+8, 6
+7, 12
+9, 2
+6, 24
+5, 5
+Processing time less than 2 min
+(Password length), (Count)
+8, 2
+6, 8
+7, 2
+Processing time less than 3 min
+(Password length), (Count)
+6, 3
+5, 1
+9, 1
+7, 1
+Processing time less than 4 min
+(Password length), (Count)
+6, 2
+8, 2
+Processing time less than 5 min
+(Password length), (Count)
+9, 1
+6, 1
+Passwords which were not successfully recovered during 5 min period
+(Password length), (Count)
+10, 3
+7, 27
+5, 5
+9, 15
+6, 62
+8, 25
+******************************************
+******************************************
+The following file was analyzed: C:\Users\Ehlimana\Desktop\results_john (RAR5) 1.txt
+Processing time less than 1 min
+(Password length), (Count)
+8, 10
+7, 15
+9, 3
+6, 35
+5, 6
+Processing time less than 2 min
+(Password length), (Count)
+8, 1
+9, 2
+6, 3
+Processing time less than 3 min
+(Password length), (Count)
+6, 5
+8, 2
+Processing time less than 4 min
+(Password length), (Count)
+5, 1
+6, 2
+8, 1
+Processing time less than 5 min
+(Password length), (Count)
+Passwords which were not successfully recovered during 5 min period
+(Password length), (Count)
+10, 3
+7, 27
+5, 4
+9, 14
+6, 55
+8, 21
+******************************************
+******************************************
+The following file was analyzed: C:\Users\Ehlimana\Desktop\results_hashcat (RAR3) 1.txt
+Processing time less than 1 min
+(Password length), (Count)
+8, 12
+5, 5
+7, 11
+9, 3
+6, 39
+Processing time less than 2 min
+(Password length), (Count)
+10, 1
+5, 3
+6, 14
+7, 10
+9, 6
+8, 9
+Processing time less than 3 min
+(Password length), (Count)
+10, 1
+6, 2
+9, 2
+Processing time less than 4 min
+(Password length), (Count)
+10, 1
+9, 5
+5, 1
+7, 7
+8, 6
+6, 23
+Processing time less than 5 min
+(Password length), (Count)
+9, 2
+7, 11
+8, 7
+5, 2
+6, 20
+Passwords which were not successfully recovered during 5 min period
+(Password length), (Count)
+8, 1
+9, 1
+7, 3
+6, 2
+Dictionaries in which the passwords were recovered
+(Number of dictionary), (Count)
+0, 15
+1, 0
+2, 85
+3, 39
+4, 64
+******************************************
+******************************************
+The following file was analyzed: C:\Users\Ehlimana\Desktop\results_hashcat (RAR5) 1.txt
+Processing time less than 1 min
+(Password length), (Count)
+10, 1
+7, 6
+8, 8
+5, 4
+9, 4
+6, 19
+Processing time less than 2 min
+(Password length), (Count)
+10, 1
+7, 15
+9, 4
+5, 1
+6, 47
+8, 15
+Processing time less than 3 min
+(Password length), (Count)
+5, 1
+10, 1
+9, 4
+7, 4
+6, 15
+Processing time less than 4 min
+(Password length), (Count)
+9, 4
+5, 1
+6, 7
+7, 8
+8, 7
+Processing time less than 5 min
+(Password length), (Count)
+9, 1
+7, 7
+6, 10
+5, 3
+8, 4
+Passwords which were not successfully recovered during 5 min period
+(Password length), (Count)
+8, 1
+5, 1
+7, 2
+6, 2
+9, 2
+Dictionaries in which the passwords were recovered
+(Number of dictionary), (Count)
+0, 89
+1, 6
+2, 84
+3, 13
+4, 10
+******************************************
