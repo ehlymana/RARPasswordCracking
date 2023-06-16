@@ -1,7 +1,7 @@
 If you use this software tool for your research, please cite the following work:
 
 ```
-E. Krupalija, S. Mrdovic, E. Cogo, I. Prazina and S. Becirovic, "Evaluation of the security of password-protected encrypted RAR3 and RAR5 archives," NCIT 2022; Proceedings of International Conference on Networks, Communications and Information Technology, Virtual, China, 2022, pp. 1-7, [doi: ](https://ieeexplore.ieee.org/document/10153749)
+E. Krupalija, S. Mrdović, E. Cogo, I. Prazina and Š. Bećirović, "Evaluation of the security of password-protected encrypted RAR3 and RAR5 archives," NCIT 2022; Proceedings of International Conference on Networks, Communications and Information Technology, Virtual, China, 2022, pp. 1-7, [doi: ](https://ieeexplore.ieee.org/document/10153749)
 ```
 
 Prerequisites:
