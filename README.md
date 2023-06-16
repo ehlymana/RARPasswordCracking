@@ -1,3 +1,9 @@
+If you use this software tool for your research, please cite the following work:
+
+```
+E. Krupalija, S. Mrdovic, E. Cogo, I. Prazina and S. Becirovic, "Evaluation of the security of password-protected encrypted RAR3 and RAR5 archives," NCIT 2022; Proceedings of International Conference on Networks, Communications and Information Technology, Virtual, China, 2022, pp. 1-7, [doi: ](https://ieeexplore.ieee.org/document/10153749)
+```
+
 Prerequisites:
 
 - *WinRAR software* (can be downloaded from [here](https://www.win-rar.com/start.html?&L=0))
@@ -15,5 +21,3 @@ The application needs to be recompiled upon making changes. If no changes are ne
 > Console application/RandomPasswordGenerator/bin/Release/net6.0/RandomPasswordGenerator.exe.
 
 Example of achieved results can be found at the **Results** folder.
-
-This application has only been made public for the purpose of helping reviewers for an international conference and ***SHOULD NOT be reused or replicated in any way*** until the research is published.
